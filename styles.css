@@ -17,10 +17,10 @@ b  {
 #photo {
    float: left;
    width: 400px;
-   height: 250px;
+   height: 300px;
 }
 #text {
    width: 400px;
-   height: 250px;
+   height: 200px;
    text-align: center;
 }

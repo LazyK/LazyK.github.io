@@ -1,0 +1,26 @@
+body {
+  background-color: powderblue;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: red;   
+}
+
+b  {
+  color: green;
+}
+
+#photo {
+   float: left;
+   width: 400px;
+   height: 250px;
+}
+#text {
+   width: 350px;
+   height: 200px;
+   text-align: center;
+}
